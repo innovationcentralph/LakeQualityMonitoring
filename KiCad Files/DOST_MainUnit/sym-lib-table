@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ICPH")(type "KiCad")(uri "C:/Users/ckabiling/Documents/GitHub/SelfHealing_SensorNode_Datalogger/SoilQuality_SelfHeal_WifiGSM_LCD/ICPH.kicad_sym")(options "")(descr ""))
+)

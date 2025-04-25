@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/ckabiling/Documents/KiCad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "powergate")(type "KiCad")(uri "${KIPRJMOD}/components/powergate.kicad_sym")(options "")(descr ""))
+)
